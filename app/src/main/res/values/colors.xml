@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF8A80
+    </color>
+
+    <color name="colorPrimaryDark">#FF5252
+    </color>
+    <color name="textColorPrimary">#FFCDD2
+    </color>
+    <color name="windowBackground">#D50000
+    </color>
+    <color name="navigationBarColor">#B2DFDB
+    </color>
+
+    <color name="colorAccent">#FF80AB</color>
+</resources>
